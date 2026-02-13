@@ -78,10 +78,13 @@
   <section id="skills">
     <h2>Skills</h2>
     <ul class="skills-list">
+      <li>PHP5 & MYSQL, SQL</li>
       <li>HTML5 / CSS3</li>
-      <li>JavaScript (ES6+)</li>
-      <li>PHP & MySQL</li>
-      <li>React / Node.js</li>
+      <li>Javascript (Reactjs & Nodejs)</li>
+      <li>Ajax, Jquery & Json</li>
+      <li>Bootstrap 4</li>
+      <li>API Integration</li>
+      <li>AI Automation(zapier)</li>
       <li>Git & GitHub</li>
     </ul>
   </section>
@@ -89,8 +92,9 @@
   <!-- Contact Section -->
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Interested in working together? Let’s connect!</p>
-    <a href="mailto:yourname@example.com" class="btn">Email Me</a>
+    <p>09564320397</p>
+    <p>Interested in working together? Let’s connect!</p><br>
+    <a href="mailto:gleralerwin@gmail.com" class="btn">Email Me</a>
   </section>
 
   <!-- Footer -->
