@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Web Developer Portfolio</title>
+  <title>AE Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -22,21 +22,26 @@
   <!-- Hero Section -->
   <section class="hero">
     <div class="hero-content">
-      <h2>Hello, I’m a Full-Stack Developer</h2>
-      <p>
-        Experienced Full Stack Developer with 4+ years of experience in Web development, API Integration, SEO(Search Engine Optimisation) and AI Automation using the latest technologies. Proven ability to troubleshoot software issues and create innovative solutions.
-     </p>
-      <a href="#projects" class="btn">View My Work</a>
+      <div class="hero-image">
+      <img src="images/photo.jpg" alt="Al Erwin Gler" class="hero-photo">
+      </div>
+      <div class="hero-text">
+        <h2>Hello, I'm a Al Erwin Gler</h2>
+        <p>Experienced Full Stack Developer with 4+ years of experience in Web development, API Integration, SEO(Search Engine Optimisation) and AI Automation using the latest technologies. Proven ability to troubleshoot software issues and create innovative solutions.</p>
+        <a href="#projects" class="btn">View My Work</a>
+      </div>
     </div>
   </section>
 
   <!-- About Section -->
   <section id="about">
     <h2>About Me</h2>
-    <p>
-      Passionate developer with expertise in HTML5, CSS3, JavaScript, and PHP.
-      I focus on creating scalable, secure, and user-friendly web applications.
-    </p>
+    <div class="about-content">
+      <p>
+        Passionate developer with expertise in HTML5, CSS3, JavaScript, and PHP.
+        I focus on creating scalable, secure, and user-friendly web applications.
+      </p>
+    </div>
   </section>
 
   <!-- Projects Section -->
@@ -45,7 +50,7 @@
     <div class="project-grid">
       <article class="project-card">
         <h3>Generali Insurance API Integration</h3>
-        <p>Generali’s APIs let you embed insurance products (quotes, policies, claims) directly into your apps or websites. You’ll need to register on their developer portal, authenticate with API keys, and integrate endpoints into your workflow.</p>
+        <p>Generali's APIs let you embed insurance products (quotes, policies, claims) directly into your apps or websites. You'll need to register on their developer portal, authenticate with API keys, and integrate endpoints into your workflow.</p>
       </article>
       <article class="project-card">
         <h3>Product Page Design</h3>
@@ -93,14 +98,13 @@
   <section id="contact">
     <h2>Contact Me</h2>
     <p>09564320397</p>
-    <p>Interested in working together? Let’s connect!</p><br>
+    <p>Interested in working together? Let's connect!</p><br>
     <a href="mailto:gleralerwin@gmail.com" class="btn">Email Me</a>
   </section>
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2026 YourName. All rights reserved.</p>
+    <p>&copy; 2026 Al Erwin Gler. All rights reserved.</p>
   </footer>
-  <script src="script.js"></script>
 </body>
 </html>
