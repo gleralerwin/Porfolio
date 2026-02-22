@@ -15,6 +15,7 @@
         <li><a href="#about">About</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#skills">Skills</a></li>
+        <li><a href="#services">Services</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
@@ -94,10 +95,26 @@
     </ul>
   </section>
 
+  <!-- Services Section -->
+  <section id="services">
+    <h2>Services</h2>
+    <ul class="services-list">
+      <li>Web Development</li>
+      <li>Wordpress Administration</li>
+      <li>API Integration</li>
+      <li>SEO (Search Engine Optimisation)</li>
+      <li>E-commerce</li>
+      <!-- <li>API Integration</li>
+      <li>AI Automation(zapier)</li>
+      <li>Git & GitHub</li> -->
+    </ul>
+  </section>
+
   <!-- Contact Section -->
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>09564320397</p>
+    <p><strong>Cellphone No: </strong>09564320397</p>
+    <p><strong>Email: </strong>gleralerwin@gmail.com</p>
     <p>Interested in working together? Let's connect!</p><br>
     <a href="mailto:gleralerwin@gmail.com" class="btn">Email Me</a>
   </section>
