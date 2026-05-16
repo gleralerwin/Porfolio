@@ -85,6 +85,10 @@ nav {
   text-align: left;
 }
 
+.hero-text h2 {
+  text-align: left;
+}
+
 .hero-image {
   flex-shrink: 0;
 }
@@ -198,7 +202,6 @@ h2 {
 }
 
 /* Skills */
-/* Skills */
 .skills-list {
   display: flex;
   flex-wrap: wrap;
@@ -237,6 +240,10 @@ h2 {
   gap: 2rem;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.about-content p {
+  text-align: center;
 }
 
 .profile-image {
